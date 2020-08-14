@@ -1,3 +1,3 @@
 # Template
-C++Code Template As a BEGINING
-Garbage
+Some Template As a BEGINING
+Maybe Garbage
